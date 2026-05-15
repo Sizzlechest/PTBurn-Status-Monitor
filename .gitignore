@@ -1,0 +1,13 @@
+# AutoIt
+*.exe
+*.au3.bak
+*.tmp
+
+# PTBurn cache file (created at runtime)
+PTBurnJobCache.ini
+
+# Logs and temporary files
+*.log
+
+# Do NOT commit Primera's copyrighted images
+Images/
